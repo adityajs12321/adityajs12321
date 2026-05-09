@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Aditya Jamuna Sunil
+# Hey, I'm Aditya Jamuna Sunil 👋🏾
 
 ---
 
-I'm a third-year student at the **Indian Institute of Information Technology, Sri City**, pursuing a B.Tech in **Artificial Intelligence and Data Science** (CGPA: 8.2/10). I have a strong interest in building intelligent systems that combine real-world data with modern AI technologies like **Multi-Agent Systems**, **Retrieval-Augmented Generation (RAG)**, and **LLM-powered pipelines**.
+I'm a third-year student at the **Indian Institute of Information Technology, Sri City**, pursuing a B.Tech in **Artificial Intelligence and Data Science**. I have a strong interest in building intelligent systems that combine real-world data with modern AI technologies like **Multi-Agent Systems**, **Retrieval-Augmented Generation (RAG)**, and **LLM-powered pipelines**.
 
-My work spans the full ML lifecycle — from data preprocessing and model training to serverless deployment and agentic automation — with a focus on modular, scalable, and production-ready solutions.
+My work also spans the full ML lifecycle — from data preprocessing and model training to serverless deployment and agentic automation — with a focus on modular, scalable, and production-ready solutions.
 
 ---
 
