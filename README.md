@@ -47,6 +47,10 @@ My work also spans the full ML lifecycle — from data preprocessing and model t
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Neo4j](https://img.shields.io/badge/NEO4J-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DIGITALOCEAN-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
