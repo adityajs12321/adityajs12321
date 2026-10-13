@@ -2,7 +2,9 @@
 
 ---
 
-I'm a third-year student at the **Indian Institute of Information Technology, Sri City**, pursuing a B.Tech in **Artificial Intelligence and Data Science**. I have a strong interest in building intelligent systems that combine real-world data with modern AI technologies like **Multi-Agent Systems**, **Retrieval-Augmented Generation (RAG)**, and **LLM-powered pipelines**.
+I'm a third-year B.Tech student in Artificial Intelligence and Data Science at the Indian Institute of Information Technology, Sri City (IIIT Sri City).
+
+I'm primarily interested in Software Development and Engineering — designing backend services, building reliable APIs, working with databases and distributed systems, and developing secure, scalable applications. I also enjoy exploring AI/ML, RAG, and LLM-powered systems to develop intelligent applications.
 
 My work also spans the full ML lifecycle — from data preprocessing and model training to serverless deployment and agentic automation — with a focus on modular, scalable, and production-ready solutions.
 
